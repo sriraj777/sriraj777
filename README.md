@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sriraj777
-- 👀 I’m interested in **data analyst roles**  
-- 🌱 I’m currently learning **Data analytics**
+- 👀 I’m interested in Data analyst roles
+- 🌱 I’m currently learning Data analytics
 - 📫 How to reach me srirajnithin@gmail.com
-- 💬 Ask me about Data Analytics, Data Visualization
+- 💬 Ask me about** Data Analytics, Data Visualization, HTML, Web-Development**
 
 <!---
 sriraj777/sriraj777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
